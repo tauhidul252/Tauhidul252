@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Tauhidul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tauhidul252&amp;show_icons=true&amp;locale=en" alt="tauhidul252" width="300" height="200" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidul252&amp;" alt="tauhidul252" width="200" height="300" align="center" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tauhidul252&amp;show_icons=true&amp;locale=en" alt="tauhidul252" width="300" height="200" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidul252&amp;" alt="tauhidul252" width="300" height="00" align="center" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tauhidul252&show_icons=true&locale=en&layout=compact" alt="tauhidul252" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tauhidul252" alt="tauhidul252" /></a> </p>
