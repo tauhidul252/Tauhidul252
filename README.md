@@ -5,7 +5,7 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Tauhidul</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tauhidul252&amp;show_icons=true&amp;locale=en" alt="tauhidul252" width="400" height="200" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidul252&amp;" alt="tauhidul252" width="400" height="200" align="center" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tauhidul252&show_icons=true&locale=en&layout=compact" alt="tauhidul252" /></p>
