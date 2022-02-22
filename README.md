@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tauhidul252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tauhidul_islam1" height="30" width="40" /></a>
+<a href="https://twitter.com/Tauhidul_islam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tauhidul_islam1" height="30" width="40" /></a>
 </p>
 </body>
 </html>
